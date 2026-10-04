@@ -2,6 +2,16 @@
 
 **Take a photo of a remote or control panel, tap the button you forgot, and get a simple explanation in English or Hindi. It runs entirely on your own computer with open-weight AI.**
 
+[![Hacktoberfest 2026](https://img.shields.io/badge/Hacktoberfest-2026-orange?logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
+[![DEV Challenge](https://img.shields.io/badge/DEV%20Challenge-Build%20for%20a%20Friend-black?logo=devdotto&logoColor=white)](https://dev.to)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-20232A?logo=react&logoColor=61DAFB)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-lightgrey?logo=ollama&logoColor=black)
+![Gemma](https://img.shields.io/badge/Model-Gemma%203%204B-4285F4?logo=google&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-YOUR_NUMBER%20passed-brightgreen)
+
 ## Why I built it
 
 My parents sometimes forget what a button on a remote or a control panel does. Until now the answer was "ask me", or ask someone else. I wanted them to be able to look it up themselves: take a photo, tap the button, read a short plain-language answer.
