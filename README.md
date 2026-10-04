@@ -10,7 +10,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-20232A?logo=react&logoColor=61DAFB)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-lightgrey?logo=ollama&logoColor=black)
 ![Gemma](https://img.shields.io/badge/Model-Gemma%203%204B-4285F4?logo=google&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests-YOUR_NUMBER%20passed-brightgreen)
+![Tests](https://img.shields.io/badge/51%20passed-brightgreen)
 
 ## Why I built it
 
