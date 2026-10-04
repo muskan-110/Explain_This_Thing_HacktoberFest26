@@ -1,0 +1,20 @@
+# Python / Venv
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node / Frontend
+node_modules/
+dist/
+
+# Project Data exclusions
+data/appliances/*/knowledge/*.pdf
+data/logs/
+
+# Environment / IDE
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store

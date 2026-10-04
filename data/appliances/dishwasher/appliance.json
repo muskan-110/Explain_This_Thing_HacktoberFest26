@@ -1,0 +1,9 @@
+{
+  "id": "dishwasher",
+  "name": "Dishwasher Panel",
+  "brand": "Generic",
+  "model": "Control Panel",
+  "type": "dishwasher",
+  "panel_image": "panel.jpg",
+  "language_default": "en"
+}

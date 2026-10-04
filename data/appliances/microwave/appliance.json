@@ -1,0 +1,9 @@
+{
+  "id": "microwave",
+  "name": "Panasonic Microwave",
+  "brand": "Panasonic",
+  "model": "NN-CT641M",
+  "type": "microwave oven",
+  "panel_image": "panel.jpg",
+  "language_default": "en"
+}

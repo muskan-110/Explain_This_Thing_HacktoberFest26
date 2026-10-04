@@ -1,0 +1,9 @@
+{
+  "id": "tv_remote",
+  "name": "Samsung TV Remote",
+  "brand": "Samsung",
+  "model": "BN59-01315M",
+  "type": "TV remote",
+  "panel_image": "panel.jpg",
+  "language_default": "en"
+}

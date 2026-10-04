@@ -1,0 +1,9 @@
+{
+  "id": "ac_remote",
+  "name": "AC Remote",
+  "brand": "Generic",
+  "model": "AC Remote",
+  "type": "air conditioner",
+  "panel_image": "panel.jpg",
+  "language_default": "en"
+}

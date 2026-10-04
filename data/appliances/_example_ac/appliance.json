@@ -1,0 +1,9 @@
+{
+  "id": "_example_ac",
+  "name": "Bedroom AC Remote",
+  "brand": "Generic",
+  "model": "Split AC Remote",
+  "type": "air_conditioner",
+  "panel_image": "panel.jpg",
+  "language_default": "en"
+}
